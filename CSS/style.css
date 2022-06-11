@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#First{
+    text-align: center;
+    
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 23.8rem 0;
+}
+#First a {
+    border: 1px solid #F4623A;
+    text-decoration: none;
+    border-radius: 25px;
+    background-color: #F4623A;
+    color: white;
+    padding: 20px 40px;
+  
+}
+#First h1{
+    margin-bottom: 3rem;
+    color: white;
+}
+#First p{
+    margin-bottom: 2rem;
+    color: white;
+}
+#second{
+    text-align: center;
+    background-color: #F4623A;
+    padding: 10rem 0;
+   
+}
+#second h3{
+    color: white;
+    margin-bottom: 2rem;
+    font-size:xx-large;
+}
+#second p{
+    color: white;
+    margin-bottom: 3rem;
+    font-size: large;
+}
+#second a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid white;
+    padding: 20px 40px;
+    border-radius: 25px;
+    background-color: white
+    
+}
+#second a:hover{
+    background-color: rgb(50, 128, 218);
+}
+#third{
+    padding: 4rem;
+    margin-left: 15rem;
+   
+}
+#third h2{
+    text-align: center;
+    margin-bottom: 5rem;
+    margin-right: 15rem;
+}
+.box{
+    float: left;
+    margin-left: 7rem;
+}
+.box img{
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+.box p{
+    margin-top: 1rem;
+    margin-bottom: 10rem;
+}
+
+#fourth .image {
+    float: left;
+    width: calc(100% / 3) ;
+}
+
+#fourth .image img{
+    width: 100%;
+    vertical-align: bottom;
+}
+
+ 
+
+#fifth {
+    clear: both;
+    padding: 10rem;
+    text-align: center;
+    background-color: #212529
+   
+}
+#fifth a{
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 1rem;
+    color: black;
+    background-color: white;
+    border-radius: 25px;
+
+}
+#fifth h2{
+    margin-bottom: 2rem;
+    color: white;
+}
+#sixth{
+  padding: 10rem;
+  text-align: center;
+}
+#sixth h1{
+    margin-bottom: 2rem;
+   
+}
+#sixth p{
+    margin-bottom: 2.5rem;
+    font-size: large;
+}
+#sixth input{
+  
+    padding: 1rem 20rem 1rem 2rem;
+    margin-bottom: 1.5rem;
+    outline-color: #F4623A;
+}
+#sixth textarea {
+ padding:45px 6rem 0px 0rem;
+padding-left: 3.5rem;
+outline-color: #F4623A;
+}
+#sixth button{
+    padding: 1.3rem 15.5rem;
+    border-radius: 25px ;
+    background-color: #F4623A;
+    color: white;
+    border-color:  #F4623A;
+    cursor: pointer;
+    
+} 
+#sixth .phone{
+    margin-top: 4rem;
+   
+}
+#sixth .phone p{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+ #by {
+    background-color: #F8F9FA;
+    padding: 3rem 0;
+    text-align: center;
+    
+}
+#by p{
+    color: gray;
+}
+#sixth .phone img{
+    width: 6rem;
+    margin-left: 2rem;
+}
+
+
+   
+
+
+
